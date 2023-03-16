@@ -38,7 +38,7 @@ This homework is to propose an innovative project and describe the key features,
 2. 紅外線距離偵測:測量使用者距離決定發球力道
 
 ### 系統方塊圖
-https://github.com/chai0210/MCU-project-proposal/blob/main/files/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-03-16%20203620.png
+![](https://github.com/chai0210/MCU-project-proposal/blob/main/files/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-03-16%20203620.png)
 
 ---
 ### 參考範例
