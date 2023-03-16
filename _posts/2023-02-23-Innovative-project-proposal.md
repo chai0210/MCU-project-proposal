@@ -35,10 +35,10 @@ This homework is to propose an innovative project and describe the key features,
 
 **所需相關技術：**
 1. 機器手臂、馬達帶動旋轉輪
-2. 距離偵測:測量使用者距離決定發球力道
+2. 紅外線距離偵測:測量使用者距離決定發球力道
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
+
 
 ---
 ### 參考範例
