@@ -20,24 +20,22 @@ This homework is to propose an innovative project and describe the key features,
   - Draw a System Block Diagram
 
 ---
-## 藍牙遙控機器人
-![](https://github.com/rkuo2023/MCU-project/blob/main/images/ESP32_RoboCar.jpg?raw=true)
+## 智能球類發球機
 
 ### 應用功能說明
-1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
-2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
+1. 依照使用者設定決定以何種方式(拋物線、直線)發射球類(籃球、乒乓球、棒球...等)
+
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 操作方式:垂直升降式手臂 or 懸吊式手臂
-2. 移動方式:兩輪 or 滑軌懸吊
-3. 供電方式:鋰電池
-4. 聯網方式:WiFi或BT to 手機
+1. 操作方式:手機連接系統已改變設定和改變位置
+2. 移動方式:四輪 
+3. 供電方式:插電
+4. 聯網方式:WiFi或Bluetooth
 
 **所需相關技術：**
-1. 滑軌式機器手臂 ＆ 軟式夾具
-2. 食物辨識分類：Jetson-Nano + IMX219
-3. 電子鼻：氣味感測與辨識 MQ2
+1. 機器手臂、馬達帶動旋轉輪
+2. 距離偵測:測量使用者距離決定發球力道
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
